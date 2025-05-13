@@ -5,9 +5,6 @@
   <h2>📜 Objective</h2>
 <p>The goal of the project was to analyse the customers' credit card data to try to help the company target the "right" customers in a new Marketing campaign.</p>
 <p>I completed the project by myself in 2 days.</p>
-  <p>
-    <img src="https://img.shields.io/badge/Tech-Python-blue?style=flat-square&logo=python">
-  </p>
 <div>
   <h2>🛠️ Skills</h2>
   <table>
@@ -20,31 +17,29 @@
       <td align="left" valign="top">
         <ul style="margin-top: 0; padding-left: 20px; text-align: left;">
           <li>Python</li>
-          <li>Bash</li>
-          <li>SQL</li>
-          <li>HTML</li>
         </ul>
       </td>
       <td align="left" valign="top">
         <ul style="margin-top: 0; padding-left: 20px; text-align: left;">
           <li>Matplotlib</li>
-          <li>Plotly</li>
           <li>Seaborn</li>
           <li>Pandas</li>
           <li>NumPy</li>
-          <li>TensorFlow</li>
+          <li>StandardScaler</li>
+          <li>LabelEncoder</li>
+          <li>silhouette_samples</li>
+          <li>silhouette_score</li>**
           <li>Scikit-learn</li>
-          <li>PyTorch</li>
-          <li>SciPy</li>
+          <li>KMeans</li>
+          <li>Pipeline</li>
+            <li>make_blobs</li>
         </ul>
       </td>
       <td align="left" valign="top">
         <ul style="margin-top: 0; padding-left: 20px; text-align: left;">
           <li>GitLab</li>
-          <li>JupiterLab</li>
           <li>Google Colab</li>
           <li>Visual Studio Code 2</li>
-          <li>GitHub</li>
         </ul>
       </td>
     </tr>
