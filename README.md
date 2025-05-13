@@ -1,39 +1,64 @@
   <h2>🚀 Machine Learning | Data Segmentation Project</h2>
   
-  <h3><a href="https://github.com/yourusername/project-repo">Automation Project</a></h3>
-  <p>Automating Client Offers with AI: Streamlining a Manual Process at Arthur Weber</p>
-<p>At Arthur Weber, clients regularly submit lengthy tender documents requesting building materials for their construction projects. These tenders often span hundreds of pages and contain detailed—but often unrelated—descriptions of entire construction processes. Buried within them are the actual product orders: lists of items, quantities, and units. Today, manually parsing and processing these documents to generate client offers is a slow, labor-intensive task.
-Our goal is to automate this process using AI, specifically by combining text extraction, natural language processing, and vector search.
-</p>
-  <p>
-    <img src="https://img.shields.io/badge/Tech-JavaScript-blue?style=flat-square&logo=javascript">
-    <img src="https://img.shields.io/badge/Tech-React-blue?style=flat-square&logo=react">
-    <img src="https://img.shields.io/badge/Tech-Node.js-blue?style=flat-square&logo=node.js">
-  </p>
-  
-  <h3><a href="https://github.com/yourusername/another-project">Another Project</a></h3>
-  <p>A brief description of another significant project with key features and technologies.</p>
+  <h3><a href="https://github.com/yourusername/project-repo">Credit Cards Customer Segmentation for a Marketing Campaing</a></h3>
+<p>The goal of the project was to analyse the customers' credit card data to try to help the company target the "right" customers in a new Marketing campaign.</p>
+<p>The project was completed in 2 days.</p>
   <p>
     <img src="https://img.shields.io/badge/Tech-Python-blue?style=flat-square&logo=python">
-    <img src="https://img.shields.io/badge/Tech-TensorFlow-blue?style=flat-square&logo=tensorflow">
   </p>
-</div>
-
 <div>
-  <h2>📜 Certifications</h2>
+  <h2>📜 Technologies</h2>
   <ul>
-    <li>AWS Certified Solutions Architect (2021)</li>
-    <li>Google Professional Data Engineer (2020)</li>
-    <li>Scrum Master Certification (2019)</li>
+    <li>Data cleaning: isnull, duplicates, deleted ID column,info, desc</li>
+    <li>Feature engineering </li>
+    <li>Correlation / heatmap</li>
+    <li>Distribution plotting</li>
+    <li>StandardScaler + Boxplot</li>
+    <li>Clustering: K-Means</li>
+    <li>Data plot K vs the SS error</li>
+    <li>Machine Learning: Elbow Method</li>
+    <li>Machine Learning: Silhouette Method</li>
+    <li>Machine Learning: Silhouette Score for each value of K</li>
+    <li>Visualizing Clusters using PCA</li>
+    <li>Merging clusters with data</li>
+    <li>Plot # observations by cluster</li>
+    <li>K-Means clustering pairplot</li>
+    <li>pairplots/boxplots/pie chart</li>
   </ul>
 </div>
-
 <div>
-  <h2>📚 Publications & Talks</h2>
+  <h2>📜 Methodology</h2>
   <ul>
-    <li>"<a href="https://publication-link.com">Title of Publication</a>" - Journal/Conference Name (Year)</li>
-    <li>"<a href="https://talk-slides.com">Title of Talk</a>" - Conference/Meetup Name (Year)</li>
+    <li>Data cleaning: isnull, duplicates, deleted ID column,info, desc</li>
+    <li>Feature engineering </li>
+    <li>Correlation / heatmap</li>
+    <li>Distribution plotting</li>
+    <li>StandardScaler + Boxplot</li>
+    <li>Clustering: K-Means</li>
+    <li>Data plot K vs the SS error</li>
+    <li>Machine Learning: Elbow Method</li>
+    <li>Machine Learning: Silhouette Method</li>
+    <li>Machine Learning: Silhouette Score for each value of K</li>
+    <li>Visualizing Clusters using PCA</li>
+    <li>Merging clusters with data</li>
+    <li>Plot # observations by cluster</li>
+    <li>K-Means clustering pairplot</li>
+    <li>pairplots/boxplots/pie chart</li>
   </ul>
+</div>
+<div>
+  <h2>📚 Recommendations</h2>
+  <ul>
+    <li> Increaser credit limit Seg. 0 + send reminders</li>
+    <li> Increase vol purchases Seg. 0 + shops deals</li>
+    <li> Increase installments Seg. 0 + positioning </li>
+    <li> Increase frequency Seg. 0 + visibility / adds</li>
+    <li> Decrease? credit limit Seg. 2 vs small purchases</li>
+    <li> Monitor installments Seg. 1</li>
+    <li> Seg. 1 award its freq.? + discounts</li>
+    <li> Offers for Seg. 1 large purchases</li>
+  </ul>
+</div>
 </div>
 <div align="center">
   <p>This CV is maintained in HTML within a GitHub README.md file. Last updated: May 2025.</p>
