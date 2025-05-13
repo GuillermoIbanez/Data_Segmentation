@@ -1,5 +1,4 @@
-# Data_Segmentation
-  <h2>🚀 Projects</h2>
+  <h2>🚀 Machine Learning | Data Segmentation Project</h2>
   
   <h3><a href="https://github.com/yourusername/project-repo">Automation Project</a></h3>
   <p>Automating Client Offers with AI: Streamlining a Manual Process at Arthur Weber</p>
