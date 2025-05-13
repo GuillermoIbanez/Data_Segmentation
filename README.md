@@ -66,7 +66,13 @@
   </ul>
 </div>
 <div>
-  <h2>📚 Recommendations</h2>
+  <h2><img src="assets/presentation_icon.png" alt="Presentation Icon" width="32" height="32" align="center"> Project PDF Presentation</h2>
+  <ul>
+    <li><a href="Project-Machine_Learning_Data_Segmentation/Project_Presentation.pdf">Click here to check the Presentation.</a> Remember to click "More pages" at the bottom to see all the slides.</li>
+  </ul>
+</div>
+<div>
+  <h2>📚 Recommendations for the marketing team</h2>
   <ul>
     <li> Increaser credit limit Seg. 0 + send reminders</li>
     <li> Increase vol purchases Seg. 0 + shops deals</li>
