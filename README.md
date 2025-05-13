@@ -6,7 +6,7 @@
 <p>The goal of the project was to analyse the customers' credit card data to try to help the company target the "right" customers in a new Marketing campaign.</p>
 <p>I completed the project by myself in 2 days.</p>
 <div>
-  <h2>🛠️ Skills</h2>
+  <h2>🛠️ Technologies</h2>
   <table>
     <tr>
       <td align="center"><b>Programming</b></td>
