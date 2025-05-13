@@ -1,3 +1,4 @@
+ <div>
   <h2>🚀 Machine Learning | Data Segmentation Project</h2>
   
   <h3><a href="https://github.com/yourusername/project-repo">Credit Cards Customer Segmentation for a Marketing Campaing</a></h3>
@@ -32,7 +33,7 @@
           <li>Scikit-learn</li>
           <li>KMeans</li>
           <li>Pipeline</li>
-            <li>make_blobs</li>
+          <li>make_blobs</li>
         </ul>
       </td>
       <td align="left" valign="top">
@@ -66,19 +67,19 @@
   </ul>
 </div>
 <div>
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png" alt="Presentation Icon" width="32" height="32" align="center"> Project PDF Presentation</h2>
+  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png" alt="Presentation Icon" width="32" height="32" style="vertical-align: -0.25em;"> Project PDF Presentation</h2>
   <ul>
     <li><a href="Presentation.pdf">Click here to check the Presentation.</a> Remember to click "More pages" at the bottom to see all the slides.</li>
   </ul>
 </div>
 <div>
-  <h2><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Icon" width="32" height="32" align="center"> Project Python Code</h2>
+  <h2><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Icon" width="32" height="32" style="vertical-align: -0.25em;"> Project Python Code</h2>
   <ul>
     <li><a href="CODE_Machine_Learning_Credit_Cards.ipynb">Click here to check the Python code.</a> This notebook contains the machine learning implementation for credit card analysis.</li>
   </ul>
 </div>
 <div>
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Data Icon" width="32" height="32" align="center"> Project Data Used</h2>
+  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Data Icon" width="32" height="32" style="vertical-align: -0.25em;"> Project Data Used</h2>
   <ul>
     <li><a href="ML_Card_Transactions_Data.csv">Click here to access the dataset.</a> This CSV file contains the credit card transaction data used in the analysis.</li>
   </ul>
@@ -95,8 +96,6 @@
     <li> Award Seg. 1 purchases frequency. Offering discounts could be an option here.</li>
   </ul>
 </div>
-</div>
 <div align="center">
   <p>This CV is maintained in HTML within a GitHub README.md file. Last updated: May 2025.</p>
 </div>
-
