@@ -1,6 +1,8 @@
   <h2>🚀 Machine Learning | Data Segmentation Project</h2>
   
   <h3><a href="https://github.com/yourusername/project-repo">Credit Cards Customer Segmentation for a Marketing Campaing</a></h3>
+
+  <h2>📜 Objective</h2>
 <p>The goal of the project was to analyse the customers' credit card data to try to help the company target the "right" customers in a new Marketing campaign.</p>
 <p>I completed the project by myself in 2 days.</p>
   <p>
