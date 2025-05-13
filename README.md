@@ -3,7 +3,7 @@
   <h3><a href="https://github.com/yourusername/project-repo">Credit Cards Customer Segmentation for a Marketing Campaing</a></h3>
 
   <h2>🎯 Objective</h2>
-<p>The project involved analyzing customer credit card data to improve targeting for a new marketing campaign.</p>
+<p>The project involved analyzing customers' credit card data to improve targeting for a new marketing campaign.</p>
 <p>I completed the project by myself in 2 days.</p>
 <div>
   <h2>🛠️ Technologies</h2>
