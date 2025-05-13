@@ -28,7 +28,7 @@
           <li>StandardScaler</li>
           <li>LabelEncoder</li>
           <li>silhouette_samples</li>
-          <li>silhouette_score</li>**
+          <li>silhouette_score</li>
           <li>Scikit-learn</li>
           <li>KMeans</li>
           <li>Pipeline</li>
