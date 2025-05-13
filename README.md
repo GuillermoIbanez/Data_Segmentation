@@ -2,7 +2,7 @@
   
   <h3><a href="https://github.com/yourusername/project-repo">Credit Cards Customer Segmentation for a Marketing Campaing</a></h3>
 
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="Objective Icon" width="32" height="32" align="center"> Objective</h2>
+  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Direct%20Hit.png" alt="Objective Icon" width="32" height="32" align="center"> Objective</h2>
 <p>The goal of the project was to analyse the customers' credit card data to try to help the company target the "right" customers in a new Marketing campaign.</p>
 <p>I completed the project by myself in 2 days.</p>
 <div>
@@ -72,7 +72,7 @@
   </ul>
 </div>
 <div>
-  <h2><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Icon" width="32" height="32" align="center"> Project Python</h2>
+  <h2><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Icon" width="32" height="32" align="center"> Project Python Code</h2>
   <ul>
     <li><a href="CODE_Machine_Learning_Credit_Cards.ipynb">Click here to check the Python code.</a> This notebook contains the machine learning implementation for credit card analysis.</li>
   </ul>
