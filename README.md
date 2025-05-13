@@ -86,14 +86,13 @@
 <div>
   <h2>📚 Recommendations for the marketing team</h2>
   <ul>
-    <li> Increaser credit limit Seg. 0 + send reminders</li>
-    <li> Increase vol purchases Seg. 0 + shops deals</li>
-    <li> Increase installments Seg. 0 + positioning </li>
-    <li> Increase frequency Seg. 0 + visibility / adds</li>
-    <li> Decrease? credit limit Seg. 2 vs small purchases</li>
-    <li> Monitor installments Seg. 1</li>
-    <li> Seg. 1 award its freq.? + discounts</li>
-    <li> Offers for Seg. 1 large purchases</li>
+    <li> Increase credit limit for Seg. 0. Send reminders to these customers of their credit availability.</li>
+    <li> Increase the volume of purchases for Seg. 0. Offer these customers shops' deals.</li>
+    <li> Increase the use of installments for Seg. 0. Positioning ads in the check-out sections of shops.</li>
+    <li> Increase frequency of purchases for Seg. 0. Increase visibility/ads in shops or online targeting this specific group.</li>
+    <li> A closer monitoring of Seg. 2 is recommended. A reduction of credit limits available might be advisable.</li>  
+    <li> Monitor installments payments of Seg. 1. An adjustment to credit limits might be advisable.</li>
+    <li> Award Seg. 1 purchases frequency. Offering discounts could be an option here.</li>
   </ul>
 </div>
 </div>
