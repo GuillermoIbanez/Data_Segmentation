@@ -66,7 +66,7 @@
   </ul>
 </div>
 <div>
-  <h2><img src="http://googleusercontent.com/image_generation_content/0" alt="Presentation Icon" width="32" height="32" align="center"> Project PDF Presentation</h2>
+  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png" alt="Presentation Icon" width="32" height="32" align="center"> Project PDF Presentation</h2>
   <ul>
     <li><a href="Presentation.pdf">Click here to check the Presentation.</a> Remember to click "More pages" at the bottom to see all the slides.</li>
   </ul>
