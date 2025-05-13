@@ -9,24 +9,46 @@
     <img src="https://img.shields.io/badge/Tech-Python-blue?style=flat-square&logo=python">
   </p>
 <div>
-  <h2>📜 Technologies</h2>
-  <ul>
-    <li>Data cleaning: isnull, duplicates, deleted ID column,info, desc</li>
-    <li>Feature engineering </li>
-    <li>Correlation / heatmap</li>
-    <li>Distribution plotting</li>
-    <li>StandardScaler + Boxplot</li>
-    <li>Clustering: K-Means</li>
-    <li>Data plot K vs the SS error</li>
-    <li>Machine Learning: Elbow Method</li>
-    <li>Machine Learning: Silhouette Method</li>
-    <li>Machine Learning: Silhouette Score for each value of K</li>
-    <li>Visualizing Clusters using PCA</li>
-    <li>Merging clusters with data</li>
-    <li>Plot # observations by cluster</li>
-    <li>K-Means clustering pairplot</li>
-    <li>pairplots/boxplots/pie chart</li>
-  </ul>
+  <h2>🛠️ Skills</h2>
+  <table>
+    <tr>
+      <td align="center"><b>Programming</b></td>
+      <td align="center"><b>Libraries</b></td>
+      <td align="center"><b>Tools & Platforms</b></td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+        <ul style="margin-top: 0; padding-left: 20px; text-align: left;">
+          <li>Python</li>
+          <li>Bash</li>
+          <li>SQL</li>
+          <li>HTML</li>
+        </ul>
+      </td>
+      <td align="left" valign="top">
+        <ul style="margin-top: 0; padding-left: 20px; text-align: left;">
+          <li>Matplotlib</li>
+          <li>Plotly</li>
+          <li>Seaborn</li>
+          <li>Pandas</li>
+          <li>NumPy</li>
+          <li>TensorFlow</li>
+          <li>Scikit-learn</li>
+          <li>PyTorch</li>
+          <li>SciPy</li>
+        </ul>
+      </td>
+      <td align="left" valign="top">
+        <ul style="margin-top: 0; padding-left: 20px; text-align: left;">
+          <li>GitLab</li>
+          <li>JupiterLab</li>
+          <li>Google Colab</li>
+          <li>Visual Studio Code 2</li>
+          <li>GitHub</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 </div>
 <div>
   <h2>📜 Methodology</h2>
