@@ -2,7 +2,7 @@
   
   <h3><a href="https://github.com/yourusername/project-repo">Credit Cards Customer Segmentation for a Marketing Campaing</a></h3>
 <p>The goal of the project was to analyse the customers' credit card data to try to help the company target the "right" customers in a new Marketing campaign.</p>
-<p>The project was completed in 2 days.</p>
+<p>I completed the project by myself in 2 days.</p>
   <p>
     <img src="https://img.shields.io/badge/Tech-Python-blue?style=flat-square&logo=python">
   </p>
