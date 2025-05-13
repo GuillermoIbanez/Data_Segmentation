@@ -69,7 +69,7 @@
 <div>
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png" alt="Presentation Icon" width="32" height="32" style="vertical-align: -0.25em;"> Project PDF Presentation</h2>
   <ul>
-    <li><a href="Presentation.pdf">Click here to check the Presentation.</a> Remember to click "More pages" at the bottom to see all the slides.</li>
+    <li><a href="Project_Presentation.pdf">Click here to check the Presentation.</a> Remember to click "More pages" at the bottom to see all the slides.</li>
   </ul>
 </div>
 <div>
