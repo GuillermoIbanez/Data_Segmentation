@@ -1,6 +1,13 @@
+<div align="center">
+  <h1>Guillermo Ibanez</h1>
+  <p>
+  </p>
+  <h1>
+    🚀 Machine Learning | Data Segmentation Project
+</h1>
+   <h1><img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="700" height="150"><h1>
+</div>
  <div>
-  <h2>🚀 Machine Learning | Data Segmentation Project</h2>
-  
   <h3><a>Credit Cards Customer Segmentation for a Marketing Campaing</a></h3>
 
   <h2>🎯 Objective</h2>
